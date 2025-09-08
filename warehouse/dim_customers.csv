@@ -1,0 +1,19 @@
+customer_id,name,email,city,signup_date
+1,John Doe,john@example.com,New York,01/01/2023
+2,Jane Smith,jane@example.com,Los Angeles,15/02/2023
+3,Bob Lee,bob@example.com,Chicago,28/02/2023
+5,Chris O'Neil,chris@example.com,San Francisco,12/03/2023
+6,"Kate ""The Great""",kate@example.com,Boston,18/03/2023
+8,Linda Brown,linda@example.com,Miami,22/03/2023
+9,Tom Hanks,tom@example.com,Orlando,23/03/2023
+10,Nancy Drew,nancy@example.com,Austin,24/03/2023
+11,Sam Wilson,sam@example.com,Denver,25/03/2023
+12,Ella Fitzgerald,ella@example.com,Nashville,26/03/2023
+13,Rick James,rick@example.com,Detroit,27/03/2023
+14,Susan Collins,susan@example.com,Atlanta,28/03/2023
+15,Peter Parker,peter@example.com,New York,29/03/2023
+16,Mary Jane,maryj@example.com,Los Angeles,30/03/2023
+17,Bruce Wayne,bruce@example.com,Gotham,31/03/2023
+18,Clark Kent,clark@example.com,Metropolis,01/04/2023
+19,Diana Prince,diana@example.com,Themyscira,02/04/2023
+20,Barry Allen,barry@example.com,Central City,03/04/2023

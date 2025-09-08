@@ -1,0 +1,21 @@
+product_id,name,category,price
+101,Chocolate Bar,Snacks,10.5
+102,"Candy, Mix",Sweets,5.25
+103,Chips,Snacks,abc
+104,Juice,Drinks,3.5
+105,Bread,Bakery,2.0
+106,Milk,Dairy,
+107,Cheese,Dairy,4.0
+108,Butter,Dairy,3.0
+109,Apple,Fruits,1.5
+110,Banana,Fruits,1.0
+111,Orange,Fruits,1.2
+112,Strawberry,Fruits,2.5
+113,Water,Beverages,0.8
+114,Coke,Beverages,1.2
+115,Pepsi,Beverages,1.2
+116,Coffee,Drinks,3.0
+117,Tea,Drinks,2.5
+118,Yogurt,Dairy,2.0
+119,Cake,Bakery,5.0
+120,Donut,Bakery,2.5
